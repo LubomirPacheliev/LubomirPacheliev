@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Welcome to my github profile where you can witness my atempt at being a programmer
+### I may not know what I'm doing but I sure am having fun doing it
 
 <!--
 **LubomirPacheliev/LubomirPacheliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
